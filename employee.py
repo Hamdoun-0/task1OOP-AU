@@ -23,7 +23,7 @@ class Employee:
            print(managed_employee.salary)
            return True
         elif ():
-            return 
+            return False
             
         # you must handle error where managed_employee._manager isn't self
         # choose to return success status or raise exceptions
