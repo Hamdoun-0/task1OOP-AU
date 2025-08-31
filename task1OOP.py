@@ -7,7 +7,6 @@
 if __name__ == '__main__' :
     
     name='John Smith'
-    
     family={
         'son':  {
             'insured':True,

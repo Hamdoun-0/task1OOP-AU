@@ -8,8 +8,14 @@ class Employee:
         self.manager=manager
         self.salary=2500
 
+    @property
+    def get_id(self):
+        return self.id
+    
+    @property
+    def get_family(self):
+        return self.family
 
-        
 
 
         
